@@ -7,3 +7,8 @@ springs out rondomly for more points!
 ```
 
 ![Image1](https://cloud.githubusercontent.com/assets/7136454/5259244/0510d4f2-79c3-11e4-9f5a-c5582f7752f4.png)
+
+### Contributors
+- [Michael Barreiro](https://github.com/mikebbarreiro)
+- [Adam Barnhard](https://github.com/ABarnhard)
+- [Sarah Pearson](https://github.com/SarahMPearson)
